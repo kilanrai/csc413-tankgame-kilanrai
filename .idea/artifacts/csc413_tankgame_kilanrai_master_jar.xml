@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="csc413-tankgame-kilanrai-master:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/csc413_tankgame_kilanrai_master_jar</output-path>
+    <root id="archive" name="csc413-tankgame-kilanrai-master.jar">
+      <element id="module-output" name="csc413-tankgame-kilanrai-master" />
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/META-INF/MANIFEST.MF" />
+      </element>
+    </root>
+  </artifact>
+</component>

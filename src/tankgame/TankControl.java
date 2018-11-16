@@ -10,10 +10,8 @@ import java.awt.event.KeyEvent;
 import java.awt.event.KeyListener;
 
 
-/**
- *
- * @author
- */
+// holds the controls of a player
+// if these keys are pressed, the tank is updated accordingly
 public class TankControl implements KeyListener {
 
     private Tank t1;
@@ -52,7 +50,9 @@ public class TankControl implements KeyListener {
         if (keyPressed == right) {
             this.t1.toggleRightPressed();
         }
-
+        if (keyPressed == shoot) {
+            this.t1.shoot();
+        }
 
     }
 
