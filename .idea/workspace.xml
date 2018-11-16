@@ -9,31 +9,7 @@
     <bookmark url="file://$PROJECT_DIR$/src/tankgame/GameState.java" line="90" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bc7eb5f8-770f-48c3-900c-97de4393d887" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/csc413_tankgame_kilanrai_master_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/META-INF/MANIFEST.MF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jar/META-INF/MANIFEST.MF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tankgame/GameState.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tankgame/Powerup.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tankgame/Tank.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/csc413-tankgame-kilanrai-master.iml" beforeDir="false" afterPath="$PROJECT_DIR$/csc413-tankgame-kilanrai-master.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jar/deletemeafteraddingjarfile.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jar/tankgame/GameState.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jar/tankgame/Tank.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jar/tankgame/TankControl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tankgame/TankControl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jar/tankgame/TankGame.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/csc413-tankgame-kilanrai-master/tankgame/GameState.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/csc413-tankgame-kilanrai-master/tankgame/HUD.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/csc413-tankgame-kilanrai-master/tankgame/Map.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/csc413-tankgame-kilanrai-master/tankgame/PlayerState.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/csc413-tankgame-kilanrai-master/tankgame/RenderState.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/csc413-tankgame-kilanrai-master/tankgame/Tank.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/csc413-tankgame-kilanrai-master/tankgame/TankControl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/csc413-tankgame-kilanrai-master/tankgame/TankGame.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/csc413-tankgame-kilanrai-master/tankgame/World.class" beforeDir="false" />
-    </list>
+    <list default="true" id="bc7eb5f8-770f-48c3-900c-97de4393d887" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -189,8 +165,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/tankgame/Bullet.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="97">
-              <caret line="68" lean-forward="true" selection-start-line="68" selection-end-line="68" />
+            <state relative-caret-position="77">
+              <caret line="67" column="25" selection-start-line="67" selection-start-column="25" selection-end-line="67" selection-end-column="25" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#1953#1954#0" expanded="true" />
@@ -310,7 +286,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542358577475" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542359158029" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.15" />
@@ -394,15 +370,15 @@
       <workItem from="1542242578744" duration="981000" />
       <workItem from="1542246961151" duration="442000" />
       <workItem from="1542252048056" duration="751000" />
-      <workItem from="1542341746628" duration="2756000" />
+      <workItem from="1542341746628" duration="3303000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22596000" />
+    <option name="totallyTimeSpent" value="23143000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="208" y="21" width="1000" height="800" extended-state="0" />
+    <frame x="208" y="21" width="1000" height="800" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="UI Designer" order="0" />
@@ -533,8 +509,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/tankgame/Bullet.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="97">
-          <caret line="68" lean-forward="true" selection-start-line="68" selection-end-line="68" />
+        <state relative-caret-position="77">
+          <caret line="67" column="25" selection-start-line="67" selection-start-column="25" selection-end-line="67" selection-end-column="25" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#1953#1954#0" expanded="true" />
