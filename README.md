@@ -1,12 +1,7 @@
 # csc413-tankgame
 
-
-
 ## Student Name : Kilan Rai
-## Student ID : 
-
-
-916002781
+## Student ID : 916002781
 
 Made in IntelliJ IDEA in Java 10
 
